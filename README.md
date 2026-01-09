@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah mahasiswa tingkat akhir di **Politeknik Negeri Banyuwangi** yang memiliki ketertarikan kuat dalam membangun sistem yang *scalable* dan cerdas. Saat ini saya sedang mendalami pengembangan Backend modern dan implementasi Machine Learning.
+I'm a final-year student at **Banyuwangi State Polytechnic** with a strong interest in building scalable and intelligent systems. I'm currently exploring modern backend development and machine learning implementation.
 
 - 🔭 I’m currently working on **Hybrid AHP-KNN Algorithm for Credit Scoring**.
 - 🌱 I’m currently learning **Golang (Go)** for High-Performance Backend & **Machine Learning**.
