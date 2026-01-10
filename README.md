@@ -88,8 +88,8 @@ I am actively seeking opportunities to collaborate on **Data Science Research**,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafisfhkr&show_icons=true&theme=dark&hide_border=true" alt="nafis stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisfhkr&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="nafis languages" height="160"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafisfhkr&theme=github_dark" alt="nafis general stats" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafisfhkr&theme=github_dark" alt="nafis languages" />
 </p>
 ---
 
