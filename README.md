@@ -23,7 +23,6 @@
 
 I'm a final-year student at **Banyuwangi State Polytechnic** with a strong interest in building scalable and intelligent systems. I'm currently exploring modern backend development and machine learning implementation.
 
-- 🔭 I’m currently working on **Hybrid AHP-KNN Algorithm for Credit Scoring**.
 - 🌱 I’m currently learning **Golang (Go)** for High-Performance Backend & **Machine Learning**.
 - 👯 I’m looking to collaborate on **Open Source Data Science or Backend Projects**.
 - 💬 Ask me about **Laravel, Flutter, or Python for Data Science**.
