@@ -23,24 +23,11 @@
 
 I'm a final-year student at **Banyuwangi State Polytechnic** with a strong interest in building scalable and intelligent systems. I'm currently exploring modern backend development and machine learning implementation.
 
-- 🌱 I’m currently learning **Golang (Go)** for High-Performance Backend & **Machine Learning**.
-- 👯 I’m looking to collaborate on **Open Source Data Science or Backend Projects**.
-- 💬 Ask me about **Laravel, Flutter, or Python for Data Science**.
+- 🌱 I’m currently learning **Golang (Go)** for Backend Dev & Python for  **Machine Learning**.
+- 👯 I’m looking to collaborate on **Mobile dev and Backend dev**.
+- 💬Learn with me about **Laravel, Flutter, or Python for Data Science**.
 
 ---
-
-### 🤝 Open for Collaboration
-
-I am actively seeking opportunities to collaborate on **Data Science Research**, **Open Source Backend Projects**, or **AI Implementation**.
-
-- 👯 **I'm looking to collaborate on:**
-  - Machine Learning Model Development (Python)
-  - Scalable Backend Systems (Go / Laravel)
-  - Mobile App Integration (Flutter)
-- 💬 **Ask me about:** How I optimized my AHP-KNN algorithm or my experience leading a Scrum team.
-- 📫 **How to reach me:**
-  - **Email:** [nafisfakhru@gmail.com](mailto:nafisfakhru@gmail.com)
-  - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nafisfakhru/)
 
 ### 🛠️ Tech Stack
 
