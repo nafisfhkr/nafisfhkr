@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm M Nafis Fakhrudin 👋</h1>
-  <h3 align="center">Informatics Engineering Student | Aspiring Data Scientist & Backend Engineer</h3>
+  <h3 align="center">Software Engineering Student | Aspiring Data Scientist & Backend Engineer</h3>
   
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=nafisfhkr&style=flat-square&color=blue" alt="nafisfhkr" /> 
