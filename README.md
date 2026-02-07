@@ -58,18 +58,6 @@ I'm a final-year student at **Banyuwangi State Polytechnic** with a strong inter
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-| Project | Role | Description | Stack |
-| :--- | :--- | :--- | :--- |
-| **Farmer Credit System** | Algorithm Dev | Hybrid AHP-KNN Model untuk prediksi kelayakan kredit petani dengan **Recall 94%**. | Python, NumPy, Streamlit |
-| **POS API SatuToko** | Backend Dev | RESTful API untuk sistem kasir dengan fitur *Row Locking*, *Transaction Safety*, dan *Sanctum Auth*. | Laravel 11, MySQL, Swagger |
-| **Bantuin App** | Fullstack Mobile | Aplikasi Marketplace Jasa (Service E-Commerce) dengan fitur *Real-time Order*. | Flutter, Firebase, Google Maps |
-| **Personal Portfolio** | Fullstack Web | Web portofolio interaktif dengan integrasi API email kustom. | Next.js 15, TypeScript, Resend |
-
----
 
 ### 📊 GitHub Stats
 
